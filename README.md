@@ -1,2 +1,2 @@
 # queue
-Queue implementation using stacks
+Queue implementation using stack
